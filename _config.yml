@@ -1,0 +1,28 @@
+name: One Million Tons
+favicon: null
+layout_spectrum: 0.48320238664746284
+typography_spectrum: 0.2751653054729104
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.29917676956392825
+  lightness: 0.999348679324612
+  saturation: 0.2523116508964449
+  rhythmicContrast: 0.31745692901313305
+purpose: []
